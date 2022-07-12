@@ -1,2 +1,8 @@
-# dallog-git-flow
-팀 달록 git-flow 실습을 위한 repository
+# 달록을 소개합니다 🌈
+
+ - 매트
+ - 리버
+ - 파랑
+ - 티거 
+ - 나인
+ - 후디
